@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<email>spam@harrywada.com</email>
+		<name>Harry Wada</name>
+	</maintainer>
+	<use>
+		<flag name="tools">Install extra scripts; not officially supported or subject to any robustness, portability, or stability criteria.</flag>
+		<flag name="zsh-completion">Enable zsh completion support.</flag>
+	</use>
+</pkgmetadata>
