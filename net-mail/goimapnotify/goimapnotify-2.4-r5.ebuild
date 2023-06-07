@@ -13,7 +13,7 @@ SRC_URI+=" https://www.harrywada.com/gentoo/${PF}-deps.tar.xz"
 
 S="${WORKDIR}/${P}-rc4-${COMMIT}"
 
-LICENSE="GPL-3+"
+LICENSE="GPL-3+ MIT BSD-3-clause Apache-2.0"
 SLOT="0"
 KEYWORDS="~amd64"
 
