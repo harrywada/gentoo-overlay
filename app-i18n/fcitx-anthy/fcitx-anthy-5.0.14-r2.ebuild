@@ -25,7 +25,7 @@ KEYWORDS="~amd64"
 
 BDEPEND="virtual/pkgconfig"
 DEPEND="
-	>=app-i18n/fcitx-5.0.0
+	>=app-i18n/fcitx-5.0.0:5
 	app-i18n/anthy
 	virtual/libintl
 "
