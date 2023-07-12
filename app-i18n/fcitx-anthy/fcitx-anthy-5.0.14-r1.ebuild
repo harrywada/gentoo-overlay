@@ -20,7 +20,7 @@ fi
 S="${WORKDIR}/fcitx5-anthy-${PV}"
 
 LICENSE="LGPL-2.1 unicode"
-SLOT="0"
+SLOT="5"
 KEYWORDS="~amd64"
 
 BDEPEND="virtual/pkgconfig"
