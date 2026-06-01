@@ -1,0 +1,11 @@
+#!/sbin/openrc-run
+
+depend() {
+	need dbus
+	use logger
+}
+
+description="My personal music daemon"
+
+supervisor=supervise-daemon
+command="/usr/bin/musicd"

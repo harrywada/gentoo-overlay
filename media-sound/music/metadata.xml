@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="person">
+		<name>Harry Wada</name>
+		<email>spam+gentoo@harrywada.com</email>
+	</maintainer>
+	<use>
+		<flag name="mpris">
+			Enable MPRIS2 support via elogind for D-Bus media player
+			control
+		</flag>
+	</use>
+</pkgmetadata>
